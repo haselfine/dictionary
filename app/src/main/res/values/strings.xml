@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">dictionary</string>
+    <string name="search_hint">Search word definition</string>
+    <string name="button_text">Search</string>
+    <string name="definition_text">Word definition: </string>
+    <string name="pronunciation_text">Pronunciation: </string>
 </resources>
